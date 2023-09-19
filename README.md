@@ -1,4 +1,4 @@
-# Contactless-Heartrate-detectio
+# Contactless-Heartrate-detection
 An approach to mesure heart rate from video feed using euler magnification, PPG (Photoplethysmorgan) solution based on a color magnification algorithm
 which makes it possible to see the color of your face change as blood rushes in and out of your head.
 
